@@ -1,0 +1,544 @@
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\appsettings.Development.json
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\appsettings.json
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.exe
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.deps.json
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.runtimeconfig.json
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.pdb
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Azure.Core.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Azure.Identity.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Humanizer.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.CodeDom.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.csproj.AssemblyReference.cache
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.AssemblyInfoInputs.cache
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.AssemblyInfo.cs
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.csproj.CoreCompileInputs.cache
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.MvcApplicationPartsAssemblyInfo.cs
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.MvcApplicationPartsAssemblyInfo.cache
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets.build.json
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets.development.json
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.Week8_BT1_API_CURD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.build.Week8_BT1_API_CURD.props
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Week8_BT1_API_CURD.props
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Week8_BT1_API_CURD.props
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\scopedcss\bundle\Week8_BT1_API_CURD.styles.css
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT.2A0BAD83.Up2Date
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\refint\Week8_BT1_API_CURD.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.pdb
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.genruntimeconfig.cache
+D:\CODE\VisualStudio\C#\TRAINING\Week8\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\ref\Week8_BT1_API_CURD.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\appsettings.Development.json
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\appsettings.json
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.exe
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.deps.json
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.runtimeconfig.json
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.pdb
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Azure.Core.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Azure.Identity.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Humanizer.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.CodeDom.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.csproj.AssemblyReference.cache
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.GeneratedMSBuildEditorConfig.editorconfig
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.AssemblyInfoInputs.cache
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.AssemblyInfo.cs
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.csproj.CoreCompileInputs.cache
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.MvcApplicationPartsAssemblyInfo.cs
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.MvcApplicationPartsAssemblyInfo.cache
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets.build.json
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets.development.json
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.Week8_BT1_API_CURD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.build.Week8_BT1_API_CURD.props
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Week8_BT1_API_CURD.props
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Week8_BT1_API_CURD.props
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\scopedcss\bundle\Week8_BT1_API_CURD.styles.css
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT.2A0BAD83.Up2Date
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\refint\Week8_BT1_API_CURD.dll
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.pdb
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.genruntimeconfig.cache
+D:\ViamLab's Project\C#\Training Exercises VIII\SOURCE\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\ref\Week8_BT1_API_CURD.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\appsettings.Development.json
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\appsettings.json
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.exe
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.deps.json
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.runtimeconfig.json
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.pdb
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Azure.Core.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Azure.Identity.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Humanizer.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.CodeDom.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.csproj.AssemblyReference.cache
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.AssemblyInfoInputs.cache
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.AssemblyInfo.cs
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.csproj.CoreCompileInputs.cache
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.MvcApplicationPartsAssemblyInfo.cs
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.MvcApplicationPartsAssemblyInfo.cache
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets.build.json
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets.development.json
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.Week8_BT1_API_CURD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.build.Week8_BT1_API_CURD.props
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Week8_BT1_API_CURD.props
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Week8_BT1_API_CURD.props
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\scopedcss\bundle\Week8_BT1_API_CURD.styles.css
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT.2A0BAD83.Up2Date
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\refint\Week8_BT1_API_CURD.dll
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.pdb
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.genruntimeconfig.cache
+D:\CODE\VisualStudio\C#\Learnmyself\C#_Full\C#_7_API\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\ref\Week8_BT1_API_CURD.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\appsettings.Development.json
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\appsettings.json
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.exe
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.deps.json
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.runtimeconfig.json
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Week8_BT1_API_CURD.pdb
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Azure.Core.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Azure.Identity.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Humanizer.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.CodeDom.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.csproj.AssemblyReference.cache
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.AssemblyInfoInputs.cache
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.AssemblyInfo.cs
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.csproj.CoreCompileInputs.cache
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.MvcApplicationPartsAssemblyInfo.cs
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.MvcApplicationPartsAssemblyInfo.cache
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.Week8_BT1_API_CURD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.build.Week8_BT1_API_CURD.props
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Week8_BT1_API_CURD.props
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Week8_BT1_API_CURD.props
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\scopedcss\bundle\Week8_BT1_API_CURD.styles.css
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT.2A0BAD83.Up2Date
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\refint\Week8_BT1_API_CURD.dll
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.pdb
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\Week8_BT1_API_CURD.genruntimeconfig.cache
+C:\Training FABLAB\HungVan_week6\Week8_BT1_API_CURD\Week8_BT1_API_CURD\obj\Debug\net8.0\ref\Week8_BT1_API_CURD.dll
