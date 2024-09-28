@@ -16,7 +16,7 @@ namespace Week8_BT1_API_CURD.Models
         [Required]
         [MaxLength(10)]
         public string Gender { get; set; }
-
+        public string Description { get; set; }
         [Required]
         public int Age { get; set; }
 
