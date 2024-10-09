@@ -12,6 +12,7 @@ namespace Week8_BT1_API_CURD.Models
         [MaxLength(100)] // Giới hạn độ dài tên lớp
         public string ClassName { get; set; }
 
+ 
 
 
     }
